@@ -41,7 +41,7 @@ Uma forma divertida de analisar o comportamento destas junções é criar instâ
 
 Por exemplo, para o fluxo _Hardware Retailer_, a próxima figura mostra quais tarefas estão sendo executadas depois do fluxo passar pela disjunção _Paralela_ e pela disjunção de _OU-exclusivo-.
 
-![componentes de um BPMS](./images/running1.png?raw=true "Componentes de um BPMS")
+![componentes de um BPMS](./images/running.png?raw=true "Componentes de um BPMS")
 
 Na configuração da junção ou-exclusivo chamada “Mode of Delivery” utilizou-se uma variável de processo chamada `carrier' que é atribuída a um de 2 valores:
 - Normal(false) ou 
