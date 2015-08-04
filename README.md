@@ -51,7 +51,7 @@ Na configuração da junção ou-exclusivo chamada “Mode of Delivery” utiliz
 
 Um dos fluxos de saída da junção está marcado como `default` enquanto o outro apresenta uma lógica onde o valor da variável é testado:
 
-`${carrier == false}
+`${carrier == false}`
 
 
 # 3. Tarefas
@@ -63,7 +63,7 @@ No caso do _Activiti_ estamos usando variáveis definidas na propriedade _form_p
 
 Para variar um pouco, na implementação disponibilizada eu troquei uma das tarefas para o tipo _script_task_, e registrei um _script_groovy_ que faz apenas um log de mensagem:
 
-`out.printn("UM SCRIPT GROOVY");
+`out.printn("UM SCRIPT GROOVY");`
 
 O BPMS Activiti também suporta javascript.
 
