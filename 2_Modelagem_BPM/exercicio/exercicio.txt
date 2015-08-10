@@ -1,0 +1,16 @@
+BPM – Exercício
+
+Registro de Certificação Profissional
+
+A cada 3 anos, os profissionais certificados devem fazer uma revalidação da certificação junto à entidade certificadora. Um formulário deverá ser preenchido com os dados profissionais, e uma taxa de renovação deverá ser paga.
+O sistema de controle de renovações faz um levantamento mensal dos profissionais cadastrados cuja certificação vencem no prazo de 3 meses.
+Cada profissional com certificação a vencer em menos de 3 meses recebe uma notificação por e-mail avisando da necessidade de se fazer a renovação da certificação.
+Se a renovação é feita dentro do prazo, e os requisitos de renovação são atendidos (análise do formulário), o profissional é comunicado por e-mail do sucesso da renovação.
+Há 3 opções para o pagamento da taxa de renovação: débito automático em conta-corrente, cartão de crédito ou boleto bancário.
+A renovação é rejeitada nas seguintes opções:
+a) o formulário é rejeitado durante a revisão dos dados informados;
+b) o período de renovação vence antes da entrega do formulário ou da efetivação do pagamento da taxa de renovação;
+c) o profissional informa durante a aplicação que não deseja renovar a certificação.
+
+Durante o processo de renovação, o profissional pode selicitar a suspensão temporária de seu registro, o que lhe garante a possibilidade de renovação em até 6 meses. Durante este período sua certificação fica cancelada.
+
